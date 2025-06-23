@@ -3,7 +3,7 @@ Actúa como un experto en TDD (Test-Driven Development) y React para implementar
 
 Implementa la siguiente funcionalidad: 
 
-ESCRIBE AQUÍ LA FUNCIONALIDAD QUE DESEAR REALIZAR
+ESCRIBE AQUÍ LA FUNCIONALIDAD QUE DESEAS REALIZAR
 
 
 - Genera primero el test que describa el comportamiento esperado usando vitest + React Testing Library.
@@ -19,4 +19,4 @@ Una vez creado el test:
 - Incluye comentarios para identificar tus sugerencias y cambios
 
 
-No implementes pruebas ni codigo en los archivos, solo muestralos en el chat
+No implementes pruebas ni código en los archivos, solo muéstralos en el chat
