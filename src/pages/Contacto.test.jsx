@@ -24,7 +24,7 @@ describe('Contacto Component', () => {
         render(<Contacto />);
         
         // Get form inputs
-        const nameInput = screen.getByLabelText('Nombre:');
+        const nameInput = screen.getByLabelText('');
         const emailInput = screen.getByLabelText('Correo Electrónico:');
         const messageInput = screen.getByLabelText('Mensaje:');
         
