@@ -1,4 +1,4 @@
-# COURSENAME
+# Desarrollo Test Driven con Inteligencia Artificial
 This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
@@ -44,6 +44,5 @@ npm run test
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
-
+[lil-course-url]: https://www.linkedin.com/learning/desarrollo-test-driven-con-inteligencia-artificial/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHej0aEER_PAw/learning-public-crop_675_1200/B4EZgyFSYsGYAo-/0/1753186903903?e=2147483647&v=beta&t=UM660Q9Wgqa3nFrIcahWgIL2VX5OtgCI0CRdNfjr-II
