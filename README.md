@@ -1,5 +1,5 @@
 # Desarrollo Test Driven con Inteligencia Artificial
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course `Desarrollo Test Driven con Inteligencia Artificial`. The full course is available from [https://www.linkedin.com/learning/desarrollo-test-driven-con-inteligencia-artificial/].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
